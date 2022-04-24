@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About Me 
+   About Me 
 
 -Passionate FullStack Developer
 <br/>
 -Always exploring for new technology
 
-
-- 🌱 I’m currently learning 
+  🌱 I’m currently learning 
 
 #React-Redux
 <br/>
@@ -30,7 +29,7 @@ About Me
 <br/>
 #Ai 
 
-🛠  Tech Stack
+   🛠  Tech Stack
 
 🌐   React  Node.js TypeScript JavaScript HTML CSS
 <br/>
@@ -38,4 +37,5 @@ About Me
 <br/>
 ⚙️   Git GitHub Firebase Heroku VsCode Postman
 
+-
 
