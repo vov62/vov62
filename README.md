@@ -18,19 +18,24 @@ Here are some ideas to get you started:
 About Me 
 
 -Passionate FullStack Developer
+<br/>
 -Always exploring for new technology
 
 
 - 🌱 I’m currently learning 
 
 #React-Redux
+<br/>
 #Node
+<br/>
 #Ai 
 
 🛠  Tech Stack
 
 🌐   React  Node.js TypeScript JavaScript HTML CSS
+<br/>
 🛢   MongoDB
+<br/>
 ⚙️   Git GitHub Firebase Heroku VsCode Postman
 
 
