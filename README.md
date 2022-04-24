@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 
    🛠  Tech Stack
 
-🌐   React  Node.js TypeScript JavaScript HTML CSS
+-🌐   #React  #Node.js #TypeScript #JavaScript #HTML #CSS
 <br/>
-🛢   MongoDB
+-🛢   #MongoDB
 <br/>
-⚙️   Git GitHub Firebase Heroku VsCode Postman
+-⚙️  #Git #GitHub #Firebase #Heroku #VsCode #Postman
 
--
+
 
