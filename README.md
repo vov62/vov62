@@ -1,5 +1,4 @@
-### Hi y'all, I'm Avi👋
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=vov62&style=flat-square&color=0088cc)
+### Hi y'all, I'm Avi👋 Glad to see you here! 
 <!--
 **vov62/vov62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,22 +16,17 @@ Here are some ideas to get you started:
 
    About Me 
 
--Passionate FullStack Developer
-<br/>
--Always exploring for new technology
+ I'm Passionate FullStack Developer who's always willing to explore and learn new technologies,<br/>
+ i love to leverage technologies to solve real-life problems. 
 
-  🌱 I’m currently learning 
+  - 🛠 &nbsp; I’m currently working with Html, Css, JavaScript, React, Nodejs, Express, Mongodb, Firbase etc.
+  - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/vov62).
+  - 📫 &nbsp; You can reach me here: avivovgen1@gmail.com.
 
-#React-Redux
-<br/>
-#Node
-<br/>
-#Ai 
 
    🛠  Tech Stack
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react">           </code>React
-#Node.js #TypeScript #JavaScript #HTML #CSS
+#React#Node.js #TypeScript #JavaScript #HTML #CSS
 <br/>
 -🛢   #MongoDB
 <br/>
