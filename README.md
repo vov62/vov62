@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-   About Me 
-
  I'm Passionate FullStack Developer who's always willing to explore and learn new technologies,<br/>
  i love to leverage technologies to solve real-life problems. 
 
