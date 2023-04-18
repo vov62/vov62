@@ -1,4 +1,7 @@
 ### Hi y'all, I'm Avi👋 Glad to see you here! 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avi-vovgen/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](lnkd.in/d3_tjHa8 )
 <!--
 **vov62/vov62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +19,7 @@ Here are some ideas to get you started:
 
  I'm Passionate FullStack Developer who's always willing to explore and learn new technologies,<br/>
  i love to leverage technologies to solve real-life problems. 
+
 
   - 🛠 &nbsp; I’m currently working with Html, Css, JavaScript, React, Nodejs, Express, Mongodb, Firbase etc.
   - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/vov62).
