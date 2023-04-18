@@ -1,5 +1,5 @@
 ### Hi y'all, I'm Avi👋
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=vov62.vov62&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=vov62&style=flat-square&color=0088cc)
 <!--
 **vov62/vov62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
